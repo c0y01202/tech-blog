@@ -4,6 +4,10 @@
 
 ## Resources
 
-## Link to Live Site
+## Link to Live Site:
 
-## Link to GitHub Repository
+https://cryptic-thicket-35491.herokuapp.com/
+
+## Link to GitHub Repository:
+
+https://github.com/c0y01202/tech-blog
